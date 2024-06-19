@@ -1,3 +1,11 @@
+"""
+[알고리즘 중간대체 최종 프로젝트 - Rover_Go]
+20399 이승주
+20362 여준석 
+
+last edited : 2024.06.19.
+"""
+
 import tkinter as tk
 import random
 import math
